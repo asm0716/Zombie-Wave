@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 431fc027b47d73948b21434fb3f6b81c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189201
+  packageName: Possessed critter
+  packageVersion: 1.0
+  assetPath: Assets/Monster_1/Materials/MAT_Floor.mat
+  uploadId: 417286

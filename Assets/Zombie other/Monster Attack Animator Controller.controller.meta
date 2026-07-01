@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32fb17a561635dd4ca285e714b7fcca6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189201
+  packageName: Possessed critter
+  packageVersion: 1.0
+  assetPath: Assets/Monster_1/Monster Attack Animator Controller.controller
+  uploadId: 417286

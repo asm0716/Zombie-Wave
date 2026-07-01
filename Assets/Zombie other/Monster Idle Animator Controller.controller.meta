@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07d6fa8a6374683479fc5aa62092c4d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189201
+  packageName: Possessed critter
+  packageVersion: 1.0
+  assetPath: Assets/Monster_1/Monster Idle Animator Controller.controller
+  uploadId: 417286

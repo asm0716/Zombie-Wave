@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d419b34cd926fd4aac3d63b20255aa4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189201
+  packageName: Possessed critter
+  packageVersion: 1.0
+  assetPath: Assets/Monster_1/Materials/Mat_Head1_skin1.mat
+  uploadId: 417286

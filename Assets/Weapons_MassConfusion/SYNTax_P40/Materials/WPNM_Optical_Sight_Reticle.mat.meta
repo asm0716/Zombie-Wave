@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: deaf360d902f3c14ba0e822695daf423
+timeCreated: 1518954246
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111831
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/Weapons_MassConfusion/SYNTax_P40/Materials/WPNM_Optical_Sight_Reticle.mat
+  uploadId: 230597

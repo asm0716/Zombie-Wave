@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4e409e43d94dd54f856e437d90d7fad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189201
+  packageName: Possessed critter
+  packageVersion: 1.0
+  assetPath: Assets/Monster_1/Animations/Idle.anim
+  uploadId: 417286

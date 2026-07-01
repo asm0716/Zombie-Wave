@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdf5cd05d02070f4fbb0d2ece33f3eac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189201
+  packageName: Possessed critter
+  packageVersion: 1.0
+  assetPath: Assets/Monster_1/Animations/Crawl.anim
+  uploadId: 417286
